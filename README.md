@@ -22,7 +22,15 @@ buffer:buffer containing an encrypted message
 
 two)
 
+
+
+
 2 -en)VOID DenCryPMessage(BYTE *private key, BYTE *buffer, BYTE *pubkey)
 private key: your private key
 buffer:buffer to be described
 pubkey: public key known to both sides
+
+
+make a donation (Monero)
+XMR
+Wallet:43JU2jvDiRgZXc7MdbVjGKJvyMaT4tMXJ748zvo8bJKiHqmEK1S53JU2jvDiRgZXc7MdbVjGKJvyMaT4tMXJ74
